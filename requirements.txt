@@ -1,0 +1,11 @@
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+mlflow
+lightgbm
+joblib
+ipykernel
