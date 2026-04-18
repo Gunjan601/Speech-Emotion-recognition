@@ -53,5 +53,5 @@ http://localhost:5000
 Dataset and preprocessed files are not included due to size constraints.
 
 ## Team members:
-Gunjan D Raheja
-J M darshana
+-Gunjan D Raheja
+-J M darshana
